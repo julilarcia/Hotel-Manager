@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"pl.edu.agh.kis.pz1.app"},{"l":"pl.edu.agh.kis.pz1.command"},{"l":"pl.edu.agh.kis.pz1.hotel.utils"},{"l":"pl.edu.agh.kis.pz1.io"},{"l":"pl.edu.agh.kis.pz1.model"},{"l":"pl.edu.agh.kis.pz1.service"}];updateSearchResults();
